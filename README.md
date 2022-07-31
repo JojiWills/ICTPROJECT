@@ -1,34 +1,47 @@
-# ICTPROJECT
+<h1 align="center">Sales System GGATORART</h1>
+<p align="center">ICT502 Database Engineering Project(PHP + ORACLE)</p>
+
+<p>This project is about how we implement database into our system.</p>
+<p>There are a few query statement that used in this project</p>
+
+<p>Feature that available :</p>
+<ul>
+  <li>Create, Read, Update, Delete</li>
+  <li>Multiple Order query</li>
+  <li>Authentication</li>
+</ul>  
 
 
-Sales System GGATORART
-ICT502 Database Engineering Project(PHP + ORACLE)
+<h2>ERD Diagram</h2>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999735799962677258/erd.png"  >
 
-This project is about how we implement database into our system.
+<h2>Sample Output Project</h2>
+<p>The userinterface are created using bootstrap.
 
-There are a few query statement that used in this project
+<h2>Dashboard</h3>
+<p>Staff can monitor sales's performance in the dashboard.</p>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999736610704871444/unknown.png"  >
 
-# ERD Diagram
+<h2>List of rows</h2>
+<p>Display list of rows that retrieved from database</p>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999737256900313118/unknown.png"  >
 
-![ERD](https://user-images.githubusercontent.com/109582424/181925044-4fca8db6-0015-4867-9cda-e3eb64ab241b.png)
+<h2>Create Page</h2>
+<p>Form for inserting data into the database</p>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999737945353355404/unknown.png" >
 
-# Sample Output Project
+<h2>Update Page</h2>
+<p>Form filled with data have retrieved from database for the update</p>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999738588935761920/unknown.png" >
 
-![35](https://user-images.githubusercontent.com/109582424/181925098-2fee3131-4c41-4c26-a3da-161f17b6098b.png)
+<h2>Product Page</h2>
+<p>Display product sell in this shop</p>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999739099978158202/unknown.png" >
 
+<h2>Order Page</h2>
+<p>Ordering system</p>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999739505928052857/unknown.png" >
 
-![36](https://user-images.githubusercontent.com/109582424/181925101-f4fa4cee-abf3-4804-972c-2639222ffac7.png)
-
-
-![31](https://user-images.githubusercontent.com/109582424/181925103-1c3bae7b-846f-4711-b18a-c418d3d42253.png)
-
-
-![32](https://user-images.githubusercontent.com/109582424/181925090-ac252a45-96cd-4181-8780-f21e417dc646.png)
-
-
-![33](https://user-images.githubusercontent.com/109582424/181925094-8ffcb7d1-8331-4a66-b630-1ef33007d9bd.png)
-
-
-![34](https://user-images.githubusercontent.com/109582424/181925095-256d82d8-a8b9-4d91-a10e-a18d620f4ec3.png)
-
-![37](https://user-images.githubusercontent.com/109582424/181925102-766f6c2b-a7de-412d-afb0-9e7fab09b803.png)
+<h2>Invoice Page</h2>
+<p>Generate invoice from order detail that complete in order page</p>
+<img src="https://cdn.discordapp.com/attachments/999735726285525165/999740038558531584/unknown.png" >
